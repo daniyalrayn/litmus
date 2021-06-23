@@ -1,0 +1,3 @@
+I cherry-picked the LitmusChaos from the numerous perturbation model out there. The LitmusChaos toolset is the first tool I experimented with in my projects at Maveric Systems Limited with my team of SRE Core Engineers. It is part of CNCF Projects and a perfect toolset to do all your cloud-native workloads.
+
+LitmusChaos mainly orchestrates chaos on Kubernetes to help SREs like us to find our kryptonite. Well, personally I was stunned by a question from my fatuous brain on what weakness would a DevOps/SRE Engineers would have other than do some deployment and some frivolous tools for Continuous Integration & Continuous Delivery.
